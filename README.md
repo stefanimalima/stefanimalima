@@ -29,3 +29,5 @@ Tecnologias que utilizo:
 </div>
   
   ## 
+
+  ![Snake animation](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
