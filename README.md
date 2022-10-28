@@ -28,9 +28,4 @@ Tecnologias que utilizo:
   <img align="center" alt="Ste-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 </div>
   
-  ##
- 
-
-  
- ![snake gif](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
- 
+  ## 
