@@ -30,4 +30,4 @@ Tecnologias que utilizo:
   
   ## 
 
-  ![Snake animation](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
