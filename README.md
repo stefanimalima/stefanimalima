@@ -15,7 +15,7 @@ Você pode me contatar através dos botões abaixo:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stefanimalima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimalima&layout=compact&langs_count=7&theme=radical"/>
     
-</div>
+</div></div>
 Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
@@ -32,6 +32,5 @@ Tecnologias que utilizo:
  
 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
  
-</div>
