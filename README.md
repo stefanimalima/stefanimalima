@@ -3,25 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Stefani+Lima.;Tenho+26+anos.;Eu+sou+natural+de+Santos-SP,+Brasil.;Sou+uma+estudante+autodidata;e+ainda+estou+aprendendo!;Aceito+dicas,+conselhos+e+sugestões.;Sejam+todos+bem+vindos!;)](https://git.io/typing-svg) 
  
  ##
- 
-</div>
-Habilidades técnicas | Hard Skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Ste-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Ste-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />     
-  <img align="center" alt="Ste-Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Ste-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-</div>
+  ### Habilidades técnicas (Hard Skills): 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp; 
+![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp; 
+![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp; 
+![Anaconda](https://img.shields.io/badge/-anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-##
 
-</div>
-Estou estudando no momento sobre:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ste-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ste-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ste-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+### No momento estou estudando: 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
 </div>
   
   ## 
