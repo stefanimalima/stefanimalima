@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Stefani+Lima.;Tenho+26+anos.;Eu+sou+natural+de+Santos-SP,+Brasil.;Sou+uma+estudante+autodidata;e+ainda+estou+aprendendo!;Aceito+dicas,+conselhos+e+sugestões.;Sejam+todos+bem+vindos!;)](https://git.io/typing-svg) 
  
- ##
-  ### Habilidades técnicas (Hard Skills): 
+##
+ 
+### Habilidades técnicas (Hard Skills): 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;  
 ![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp; 
 ![Anaconda](https://img.shields.io/badge/-anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117)&nbsp;
@@ -16,15 +17,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
 </div>
   
-  ## 
+## 
   
 <div 
 align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stefanimalima&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=F0E68C&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub para Stefani Lima" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimalima&layout=compact&hide_border=true&title_color=F0E68C&text_color=c9d1d9&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimalima&layout=compact&hide_border=true&title_color=F0E68C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
  ##
