@@ -1,23 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F38E8C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Stefani+Lima.;Tenho+26+anos.;Eu+sou+natural+de+Santos-SP,+Brasil.;Sou+uma+estudante+autodidata;e+ainda+estou+aprendendo!;Aceito+dicas,+conselhos+e+sugestões.;Sejam+todos+bem+vindos!;)](https://git.io/typing-svg) 
- 
-##
- 
-### Habilidades técnicas (Hard Skills): 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;  
-![Jupyter](https://img.shields.io/badge/-jupyter-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp; 
-![Anaconda](https://img.shields.io/badge/-anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-
-### No momento estou estudando: 
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Stefani+Lima.;Tenho+26+anos.;Sou+aluna+do+programa+de+formação+Sharp+Coders.;e+ainda+estou+aprendendo!;Aceito+dicas,+conselhos+e+sugestões.;Sejam+todos+bem+vindos!;)](https://git.io/typing-svg)
   
 ## 
   
