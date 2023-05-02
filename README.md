@@ -13,7 +13,7 @@ align="center">
 ##
 </br>
 
-<h2 align='center'><i>Linguagens e ferramentas de desenvolvimento</i></h2>
+<h2 align='center'><i>Linguagens e ferramentas de desenvolvimento que utilizo:</i></h2>
 
 <table width="100">
 <tr>
