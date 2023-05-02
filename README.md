@@ -2,14 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
-Hi! 😄
-
-My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP (Brazil). Currently, I'm going through a career transition and **still seeking my first opportunity as a web developer**. I'm a self-taught student, but I've completed a full-stack development program, Sharp Coders from Imã Tech. It was through this bootcamp that I acquired all my knowledge and developed my first projects. I'm available via email, LinkedIn and Instagram (below my profile picture). Thank you for reading this far!
+My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP (Brazil). Currently, I'm going through a career transition and **still seeking my first opportunity as a web developer**. I'm a self-taught student, but I've completed a _Full Stack_ development program, Sharp Coders from Imã Tech. It was through this bootcamp that I acquired all my knowledge and developed my first projects. Thank you for reading this far!
 
 ##
-Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento Full Stack, o Sharp Coders da [Imã Tech](https://github.com/imalearningplace-education). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. Estou disponível através do e-mail, Linkedin e Instagram (abaixo da imagem de perfil). Obrigada por ter lido até aqui! 
 
+Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento _Full Stack_, o [Sharp Coders](https://github.com/imalearningplace-education) da [Imã Tech](https://github.com/imalearningplace-education). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. Obrigada por ter lido até aqui! 
+
+<div align="center">
+  <h4>Entre em contato comigo em um dos botões abaixo:<h4/>
+  <a href="https://www.linkedin.com/in/1stefanilima/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:stefanilima.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+    
 ##
+    
 <h2 align='center'><i>Development languages and tools</i></h2>
 <table width="100">
 <tr>
