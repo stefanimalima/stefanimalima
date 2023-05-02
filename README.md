@@ -4,12 +4,10 @@
 
 Hi! 😄
 
-My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP (Brazil). Currently, I'm going through a career transition and **still seeking my first opportunity as a web developer**. I'm a self-taught student, but I've completed a full-stack development program, Sharp Coders from [Imã Tech](https://github.com/imalearningplace-educationhttps://github.com/imalearningplace-education). It was through this bootcamp that I acquired all my knowledge and developed my first projects. I'm available via email, LinkedIn and Instagram (below my profile picture). Thank you for reading this far!
+My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP (Brazil). Currently, I'm going through a career transition and **still seeking my first opportunity as a web developer**. I'm a self-taught student, but I've completed a full-stack development program, Sharp Coders from Imã Tech. It was through this bootcamp that I acquired all my knowledge and developed my first projects. I'm available via email, LinkedIn and Instagram (below my profile picture). Thank you for reading this far!
 
 ##
-Olá! 😁
-
-Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento Full Stack, o Sharp Coders da [Imã Tech](https://github.com/imalearningplace-educationhttps://github.com/imalearningplace-education). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. Estou disponível através do e-mail, Linkedin e Instagram (abaixo da imagem de perfil). Obrigada por ter lido até aqui! 
+Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento Full Stack, o Sharp Coders da [Imã Tech](https://github.com/imalearningplace-education/Sharp-Coders-bootcamp). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. Estou disponível através do e-mail, Linkedin e Instagram (abaixo da imagem de perfil). Obrigada por ter lido até aqui! 
 
 ##
 <h2 align='center'><i>Development languages and tools</i></h2>
