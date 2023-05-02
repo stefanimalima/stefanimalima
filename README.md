@@ -4,8 +4,7 @@
 ##
 </br>
 
-<h2 align='center'><i>Development languages and tools [Linguagens e ferramentas de desenvolvimento]:
-</i></h2>
+<h2 align='center'><i>Development languages and tools</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
