@@ -10,7 +10,32 @@ align="center">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimalima&layout=compact&hide_border=true&title_color=fffffb&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
- ##
+##
+</br>
+
+<h2 align='center'><i>Linguagens e ferramentas de desenvolvimento</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
+    </td>
+</tr>
+</table>
+
+##
  
 ![snake gif](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
 
