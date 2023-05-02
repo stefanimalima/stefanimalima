@@ -11,7 +11,7 @@ Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP 
 <div align="center">
   <h4>Entre em contato comigo em um dos botões abaixo:<h4/>
     <a href="https://wa.me/5513991055116?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+GitHub.+https://wa.me/5513991055116?text=Ol%C3%A1%21+Vim+atrav%C3%A9s+do+GitHub.+" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-green"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-brightgreen"/>
   </a>
   <a href="https://www.linkedin.com/in/1stefanilima/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue"/>
