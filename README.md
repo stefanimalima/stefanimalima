@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world!+Eu+sou+a+Stefani+Lima.;Tenho+26+anos.;Sou+estudante+autodidata+e+ainda+estou+aprendendo!;Aceito+dicas,+conselhos+e+sugestões.;Sejam+todos+bem+vindos!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world!+🖐;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 ##
 </br>
 
-<h2 align='center'><i>Linguagens e ferramentas de desenvolvimento:</i></h2>
+<h2 align='center'><i>Development languages and tools [Linguagens e ferramentas de desenvolvimento]:
+</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
