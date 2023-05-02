@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
 
 My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP (Brazil). Currently, I'm going through a career transition and **still seeking my first opportunity as a web developer**. I'm a self-taught student, but I've completed a _Full Stack_ development program, Sharp Coders from Imã Tech. It was through this bootcamp that I acquired all my knowledge and developed my first projects. Thank you for reading this far!
@@ -78,5 +76,3 @@ align="center">
 ##
 
 ![snake gif](https://github.com/stefanimalima/stefanimalima/blob/output/github-contribution-grid-snake.svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
