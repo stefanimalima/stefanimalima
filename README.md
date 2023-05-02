@@ -6,7 +6,7 @@ My name is _Stefani Lima_. I'm 26 years old and I'm from the city of Santos - SP
 
 ##
 
-Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento _Full Stack_, o [Sharp Coders](https://github.com/imalearningplace-education) da [Imã Tech](https://github.com/imalearningplace-education). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. Obrigada por ter lido até aqui! 
+Meu nome é _Stefani Lima_. Tenho 26 anos, sou natural da cidade de Santos - SP (Brasil). No momento, estou passando por uma transição de carreira e **ainda busco a minha primeira oportunidade como desenvolvedora web**. Sou estudante autodidata, mas fiz parte de um programa completo de desenvolvimento _Full Stack_, o [Sharp Coders](https://github.com/imalearningplace-education) da [Imã Tech](https://github.com/imalearningplace-education). Foi através desse bootcamp que adquiri toda minha base e desenvolvi os meus primeros projetos. 
 
 <div align="center">
   <h4>Entre em contato comigo em um dos botões abaixo:<h4/>
